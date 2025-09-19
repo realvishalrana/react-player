@@ -8,7 +8,7 @@ yarn-error.log
 /coverage
 /es6
 .idea/
-.vscode/
 /disttest/
 /dist/
 tsconfig.tsbuildinfo
+config.bat
